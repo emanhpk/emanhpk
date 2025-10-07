@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=emanhpk&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emanhpk)
