@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a37cb3cb-9e63-438b-a6ef-9bb523fcec0d" /><h1 align="center">👋 Hi there! I'm Phan Khac Manh</h1>
+<h1 align="center">👋 Hi there! I'm Phan Khac Manh</h1>
 <h3 align="center">📱 Android Developer</h3>
 
 ---
